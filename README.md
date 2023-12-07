@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valen-r-s&label=Profile%20views&color=0e75b6&style=flat" alt="valen-r-s" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Three.JS**
+- 🌱 I’m currently learning **Three.JS**
 
 - 👨‍💻 All of my projects are available at:
   <br/>
