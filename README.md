@@ -16,7 +16,6 @@
 - 📫 How to reach me [https://github.com/Valen-r-s](https://github.com/Valen-r-s)
 
 - 🕹️ Play my game [PickDash](https://stunning-cat-b4f1ab.netlify.app/) 
-<br/>
 **Try to put all the yellow pills, cubes and spheres inside the purple box.**
     
 - ⚡ Fun fact **I have anxiety if I am not studying or learning something new.**
