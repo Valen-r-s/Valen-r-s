@@ -13,8 +13,10 @@
 
 - 💬 Ask me about **HTML5, CSS3**
 
-- 📫 How to reach me **valentina.re.san@gmail.com**
+- 📫 How to reach me [https://github.com/Valen-r-s](https://github.com/Valen-r-s)
 
+- 🕹️ Play my game [PickDash](https://stunning-cat-b4f1ab.netlify.app/)
+    
 - ⚡ Fun fact **I have anxiety if I am not studying or learning something new.**
 
 <h3 align="left">Connect with me:</h3>
