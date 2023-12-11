@@ -16,7 +16,7 @@
 - 📫 How to reach me **valentina.re.san@gmail.com**
 
 - 🕹️ Play my game [PickDash](https://stunning-cat-b4f1ab.netlify.app/) 
-**Try to put all the yellow pills, cubes and spheres inside the purple box.**
+**Try to place all the yellow pills, cubes and spheres inside the purple box.**
     
 <h2 align="left">🌐Socials:</h2>
 <p align="left">
