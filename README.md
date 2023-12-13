@@ -8,8 +8,8 @@
 
 - 👩🏼‍💻 All of my projects are available at:
   <br/>
-  [https://github.com/Valen-r-s](https://github.com/Valen-r-s)<br/>
-  [https://vercel.com/valen-r-s](https://vercel.com/valen-r-s)
+[![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)](https://vercel.com/valen-r-s)
+[![GitHub](https://img.shields.io/badge/GitHub-purple?logo=github)](https://github.com/Valen-r-s)
 
 - 💬 Ask me about **HTML5, CSS3**
 
