@@ -6,6 +6,10 @@
 
 - 🌱 I’m currently learning **Three.JS**
 
+- 👀 Do you want to see something cool?
+  <br/>
+  [![Vercel](https://img.shields.io/badge/Check_this-pink)](https://dynamic-bubbles.vercel.app/)
+  
 - 👩🏼‍💻 All of my projects are available at:
   <br/>
 [![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)](https://vercel.com/valen-r-s)
