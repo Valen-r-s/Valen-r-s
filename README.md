@@ -8,7 +8,7 @@
 
 - 👀 Do you want to see something cool?
   <br/>
-  [![Vercel](https://img.shields.io/badge/Check_this-pink)](https://dynamic-bubbles.vercel.app/)
+  [![Vercel](https://img.shields.io/badge/Check_this-pink)](https://dymanic-bubbles.vercel.app/)
   
 - 👩🏼‍💻 All of my projects are available at:
   <br/>
