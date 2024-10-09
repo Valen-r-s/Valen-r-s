@@ -2,18 +2,24 @@
 <h3 align="center">An enthusiastic creative developer based in Colombia</h3>
 <img align="right" alt="Gift of a cat coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
+
 - 🌱 I’m currently learning **Three.JS**
+
+- 📍 Some of my projects on my [portfolio](https://vercel.com/valenrs-projects/portfolio)
 
 - 👀 Do you want to see something cool?
   <br/>
   [![Vercel](https://img.shields.io/badge/Check_this-pink)](https://dymanic-bubbles.vercel.app/)
+
   
 - 👩🏼‍💻 All of my projects are available at:
   <br/>
 [![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)](https://vercel.com/valen-r-s)
 [![GitHub](https://img.shields.io/badge/GitHub-purple?logo=github)](https://github.com/Valen-r-s)
 
+
 - 📫 How to reach me **valentina.re.san@gmail.com**
+
     
 <h2 align="left">🌐Socials:</h2>
 <p align="left">
