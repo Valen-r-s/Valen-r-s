@@ -2,8 +2,6 @@
 <h3 align="center">An enthusiastic creative developer based in Colombia</h3>
 <img align="right" alt="Gift of a cat coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valen-r-s&label=Profile%20views&color=0e75b6&style=flat" alt="valen-r-s" /> </p>
-
 - 🌱 I’m currently learning **Three.JS**
 
 - 👀 Do you want to see something cool?
