@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Three.JS**
 
-- 📍 Some of my projects on my [portfolio](https://vercel.com/valenrs-projects/portfolio)
+- 📍 Some of my projects on my [portfolio](https://portfolio-smoky-alpha-79.vercel.app/)
 
 - 👀 Do you want to see something cool?
   <br/>
