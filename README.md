@@ -11,13 +11,6 @@
   <br/>
   [![Vercel](https://img.shields.io/badge/Check_this-pink)](https://dymanic-bubbles.vercel.app/)
 
-  
-- 👩🏼‍💻 All of my projects are available at:
-  <br/>
-[![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)](https://vercel.com/valen-r-s)
-[![GitHub](https://img.shields.io/badge/GitHub-purple?logo=github)](https://github.com/Valen-r-s)
-
-
 - 📫 How to reach me **valentina.re.san@gmail.com**
 
     
