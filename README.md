@@ -5,11 +5,16 @@
 
 - 🌱 I’m currently learning **Three.JS**
 
-- 📍 Some of my projects on my [portfolio](https://portfolio-86-seven.vercel.app/)
+- 📍 All my projects on <br>
 
-- 👀 Do you want to see something cool?
-  <br/>
-  [![Vercel](https://img.shields.io/badge/Check_this-pink)](https://dymanic-bubbles.vercel.app/)
+[![Static Badge](https://img.shields.io/badge/My%20portfolio%20-%20hotpink?style=for-the-badge&logo=kofi&logoColor=black)](https://portfolio-86-seven.vercel.app/)
+
+- 🎮 developed video games ↴<br/>
+  
+[![techDreamer](https://img.shields.io/badge/TechDreamer%20-%20purple?style=for-the-badge&logo=unity&logoColor=purple&label=Play&labelColor=pink)](https://tranquil-liger-5426be.netlify.app/)
+<br>
+[![Video Game](https://img.shields.io/badge/PickDash%20-%20green?style=for-the-badge&logo=unity&logoColor=black&label=Play&labelColor=snow)](https://stunning-cat-b4f1ab.netlify.app/)
+
 
 - 📫 How to reach me **valentina.re.san@gmail.com**
 
