@@ -15,9 +15,6 @@
 <br>
 [![Video Game](https://img.shields.io/badge/PickDash%20-%20green?style=for-the-badge&logo=unity&logoColor=black&label=Play&labelColor=snow)](https://stunning-cat-b4f1ab.netlify.app/)
 
-
-- 📫 How to reach me **valentina.re.san@gmail.com**
-
     
 <h2 align="left">🌐Socials:</h2>
 <p align="left">
