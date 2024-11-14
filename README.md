@@ -7,7 +7,7 @@
 
 - 📍 All my projects on <br>
 
-[![Static Badge](https://img.shields.io/badge/My%20portfolio%20-%20hotpink?style=for-the-badge&logo=kofi&logoColor=black)](https://portfolio-86-seven.vercel.app/)
+[![portfolio](https://img.shields.io/badge/My%20portfolio%20-%20hotpink?style=for-the-badge&logo=kofi&logoColor=black)](https://portfolio-86-seven.vercel.app/)
 
 - 🎮 developed video games ↴<br/>
   
