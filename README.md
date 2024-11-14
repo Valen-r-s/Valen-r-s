@@ -3,20 +3,20 @@
 <img align="right" alt="Gift of a cat coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 
-- 🌱 I’m currently learning **Three.JS**
+<h3>- 🌱 I’m currently learning Three.JS </h3>
 
-- 📍 All my projects on <br>
+<h3>- 📍 All my projects on: <br></h3>
 
 [![portfolio](https://img.shields.io/badge/My%20portfolio%20-%20hotpink?style=for-the-badge&logo=kofi&logoColor=black)](https://portfolio-86-seven.vercel.app/)
 
-- 🎮 developed video games ↴<br/>
+<h3>- 🎮 developed video games:<br/></h3>
   
 [![techDreamer](https://img.shields.io/badge/TechDreamer%20-%20purple?style=for-the-badge&logo=unity&logoColor=purple&label=Play&labelColor=pink)](https://tranquil-liger-5426be.netlify.app/)
 <br>
 [![Video Game](https://img.shields.io/badge/PickDash%20-%20green?style=for-the-badge&logo=unity&logoColor=black&label=Play&labelColor=snow)](https://stunning-cat-b4f1ab.netlify.app/)
 
 
-- 🌐 Socials <br/>
+<h3>- 🌐 Socials:<br/></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin&logoColor=snow)](https://www.linkedin.com/in/valentina-restrepo-0389812a2/) 
 <br>
