@@ -23,8 +23,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin&logoColor=snow)](https://www.linkedin.com/in/valentina-restrepo-0389812a2/) 
 <br>
-[![Instagram](https://img.shields.io/badge/Instagram%20-%20pink?style=for-the-badge&logo=instagram&logoColor=snow)](https://www.instagram.com/valen.r.s/)
-
 
 
 
