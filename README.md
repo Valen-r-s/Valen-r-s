@@ -10,10 +10,13 @@
 [![portfolio](https://img.shields.io/badge/My%20portfolio%20-%20hotpink?style=for-the-badge&logo=kofi&logoColor=black)](https://portfolio-86-seven.vercel.app/)
 
 <h3>- 🎮 developed video games:<br/></h3>
-  
+
+[![ChamberOfSecrets](https://img.shields.io/badge/Chamber%20Of%20Secrets%20-%20light%20green?style=for-the-badge&logo=unity&logoColor=white&label=PLAY&labelColor=blue
+)](https://inspiring-dusk-f5d308.netlify.app)
+<br>
 [![techDreamer](https://img.shields.io/badge/TechDreamer%20-%20purple?style=for-the-badge&logo=unity&logoColor=purple&label=Play&labelColor=pink)](https://tranquil-liger-5426be.netlify.app/)
 <br>
-[![Video Game](https://img.shields.io/badge/PickDash%20-%20green?style=for-the-badge&logo=unity&logoColor=black&label=Play&labelColor=snow)](https://stunning-cat-b4f1ab.netlify.app/)
+[![PickDash](https://img.shields.io/badge/PickDash%20-%20green?style=for-the-badge&logo=unity&logoColor=black&label=Play&labelColor=snow)](https://stunning-cat-b4f1ab.netlify.app/)
 
 
 <h3>- 🌐 Socials:<br/></h3>
